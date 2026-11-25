@@ -1,0 +1,14 @@
+# Build output
+slicecore
+*.exe
+*.o
+*.obj
+
+# Generated on every run (see README)
+cube.stl
+output.gcode
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
